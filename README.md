@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerrymcfred
+- 👋 Hi, I’m Jeremiah Mcfred
 - 👀 I’m interested in Frontend Engineering and Blockchain web3 Development
 - 🌱 I’m currently learning to Master my Skillset
 - 💞️ I’m looking to collaborate on typescript, Nextjs and Solidity projects.
