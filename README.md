@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremiah Mcfred
 - 👀 Frontend Engineering and Blockchain web3 Development
-- 🌱 I’m currently learning to Master my Skillset
+- 🌱 In the hills, building the future
 - 💞️ I’m looking to collaborate on typescript, Nextjs and Solidity projects.
 - 📫 How to reach me - jeremiahmacfred@gmail.com
 
